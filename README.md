@@ -5,3 +5,4 @@
 Following this, there are additional dense layers for further feature extraction.
 * Finally, there are two output branches: one for classification (classification_output) and one for a binary task (negative_output).
 * The model iis very rubust and occupies only 5.6 MB with a ~98% accuracy.
+* <a href="https://www.kaggle.com/datasets/isaacritharson/severity-based-rice-leaf-diseases-dataset">Link to Dataset</a>
