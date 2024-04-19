@@ -7,3 +7,4 @@ Following this, there are additional dense layers for further feature extraction
 * The model is very robust and occupies only 5.6 MB with a ~98% accuracy.
 * <a href="https://www.kaggle.com/datasets/isaacritharson/severity-based-rice-leaf-diseases-dataset">Link to Dataset</a>
 * <a href="https://colab.research.google.com/drive/1zYAvIU5sjBOU5ZD-xEqWsOHPK92vfC8i?usp=sharing">Colab Notebook</a>
+* <a href="https://docs.google.com/document/d/1_lv4Gqjk0R2L5etSN47Noo61hSJYxzmmj2aSaRyWkiw/edit?usp=sharing">NOTES</a>
