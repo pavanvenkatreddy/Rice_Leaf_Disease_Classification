@@ -6,7 +6,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.models import Model
 
 # Load the saved model
-loaded_model = load_model('my_model (1).h5')  # Update the path
+loaded_model = load_model('my_model1.h5')  # Update the path
 
 # Define custom class labels
 custom_class_labels = [
