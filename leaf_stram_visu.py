@@ -79,10 +79,10 @@ if uploaded_file is not None:
     st.write(f"Predicted Class: {predicted_class}")
 
     # Slider to select the layer index
-    layer_index = st.slider('Select Layer Index', min_value=0, max_value=17, value=3)
+    #layer_index = st.slider('Select Layer Index', min_value=0, max_value=17, value=3)
 
     # Button to trigger visualization
     #if st.button('Visualize Intermediate Activations'):
-    visualize_intermediate_activations(uploaded_file, layer_index)
+    #visualize_intermediate_activations(uploaded_file, layer_index)
         # Display the saved image
-    st.image('activations.png', caption='Intermediate Activations', use_column_width=True)
+    #st.image('activations.png', caption='Intermediate Activations', use_column_width=True)
