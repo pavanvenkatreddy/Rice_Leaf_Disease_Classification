@@ -8,3 +8,4 @@ Following this, there are additional dense layers for further feature extraction
 * <a href="https://www.kaggle.com/datasets/isaacritharson/severity-based-rice-leaf-diseases-dataset">Link to Dataset</a>
 * <a href="https://colab.research.google.com/drive/1zYAvIU5sjBOU5ZD-xEqWsOHPK92vfC8i?usp=sharing">Colab Notebook</a>
 * <a href="https://docs.google.com/document/d/1_lv4Gqjk0R2L5etSN47Noo61hSJYxzmmj2aSaRyWkiw/edit?usp=sharing">NOTES</a>
+* <a href="https://riceleafdiseaseclassification-aijuux8tzp7fiabs9tlcek.streamlit.app/">Test Application</a>
